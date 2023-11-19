@@ -1,6 +1,6 @@
 # python:
 
-*.DS_Store
+*.DS_Store8
 *.idea/
 *.pyc
 sample/*.png
